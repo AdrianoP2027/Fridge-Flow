@@ -308,3 +308,7 @@ Potential future additions include:
 The core inventory system, planning configuration, recipe database, optimization engine, sequential inventory simulation, meal generation, shopping-gap analysis, remaining inventory tracking, efficiency scoring, and responsive user interface were implemented as part of the project.
 
 FridgeFlow was also used as an experiment in AI-assisted software development and prompt engineering, exploring how AI can work alongside human decision-making throughout the software development process.
+
+© 2026 Adriano P. | AI-Assisted Project
+
+Developed with AI-assisted tools and third-party resources. Please do not copy, redistribute, or reuse the code without my permission.
